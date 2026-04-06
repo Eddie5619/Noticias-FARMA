@@ -1,0 +1,85 @@
+{
+  "report_metadata": {
+    "week": 14,
+    "year": 2026,
+    "date_generated": "6 de abril de 2026",
+    "total_sources": 0,
+    "data_quality": "baja",
+    "data_quality_note": "Modo dry-run — sin datos reales"
+  },
+  "executive_summary": {
+    "headline": "DRY-RUN: Este es un reporte de prueba sin datos reales de Claude API.",
+    "top_signals": [
+      {
+        "signal": "Señal de prueba 1",
+        "importance": "ALTA",
+        "source": "Mock",
+        "action_for_pp": "Acción de prueba"
+      },
+      {
+        "signal": "Señal de prueba 2",
+        "importance": "MEDIA",
+        "source": "Mock",
+        "action_for_pp": "Monitorear"
+      }
+    ],
+    "week_assessment": "Reporte generado en modo dry-run para validar el pipeline sin consumir tokens de API."
+  },
+  "sections": [
+    {
+      "title": "Sección de Prueba",
+      "key_findings": [
+        {
+          "finding": "Hallazgo de prueba",
+          "evidence": "Evidencia mock",
+          "source_url": "https://example.com",
+          "maturity": "investigacion"
+        }
+      ],
+      "market_implication": "Implicación de mercado de prueba.",
+      "parque_pharma_relevance": "Relevancia de prueba para Parque Pharma.",
+      "alert_level": "BAJA"
+    }
+  ],
+  "competitive_intelligence": {
+    "key_players_news": [
+      {
+        "company": "TestCo",
+        "news": "Test",
+        "relevance": "Test"
+      }
+    ],
+    "market_gaps": [
+      "Gap de prueba"
+    ]
+  },
+  "regulatory_radar": {
+    "fda_updates": [
+      "FDA update de prueba"
+    ],
+    "ema_updates": [],
+    "cofepris_notes": "Sin novedades",
+    "upcoming_deadlines": []
+  },
+  "strategic_recommendations": [
+    {
+      "priority": 1,
+      "recommendation": "Validar el pipeline completo",
+      "rationale": "Dry-run exitoso",
+      "time_horizon": "inmediata",
+      "resource_implication": "Mínimo"
+    }
+  ],
+  "sources_used": [
+    {
+      "title": "Fuente mock",
+      "source": "DryRun",
+      "url": "https://example.com",
+      "relevance": "Prueba del sistema"
+    }
+  ],
+  "next_week_watchlist": [
+    "Verificar que el pipeline corre en producción",
+    "Configurar GitHub Actions"
+  ]
+}
